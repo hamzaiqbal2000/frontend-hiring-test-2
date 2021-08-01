@@ -21,11 +21,6 @@ Your users should be able to:
 - See their own IP Address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
-## Bonus:
-- Use Typescript
-- Error tolerant and rate limiting handling for external APIs
-- 
-
 # Front-end Style Guide
 
 ## Layout
@@ -50,3 +45,16 @@ The designs were created to the following widths:
 
 - Family: [Rubik](https://fonts.google.com/specimen/Rubik)
 - Weights: 400, 500, 700
+
+
+## Bonus
+
+- Use typescript
+- Error tolerant and rate limiting handling for external APIs
+- Deploy your app on Heroku or Netlify
+
+
+## Code Submit
+Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
+
+All the best and happy coding.
